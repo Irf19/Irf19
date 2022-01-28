@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Irf19
-- 🌱 I’m currently learning economics
+- 🌱 I’m currently learning data viz
 - 💞️ I’m looking to collaborate on data viz
 - 📫 How to reach me irfantriharjo[at]gmail.com
 
